@@ -1,0 +1,1 @@
+As the data file is too large, i have not uploaded it on GitHub. Download the 'emojitweets-01-04-2018.txt' file manually from https://www.kaggle.com/datasets/rexhaif/emojifydata-en?select=emojitweets-01-04-2018.txt
